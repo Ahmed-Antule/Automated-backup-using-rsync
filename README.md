@@ -7,8 +7,11 @@ Created a Bash script to automate system backups using rsync, ensuring efficient
 ## Key Benefits 
 
 1.Automated backups: Reduces manual effort and ensures backups happen consistently.
+
 2.Incremental syncing with rsync: Saves time and bandwidth by copying only changed files.
+
 3.Improved reliability: Scheduled cron jobs guarantee regular backups without human intervention.
+
 4.Data safety: Minimizes risk of data loss by maintaining up-to-date copies.
 
 ### Step 1
