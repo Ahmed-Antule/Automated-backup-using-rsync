@@ -40,7 +40,7 @@ Created a Bash script to automate system backups using rsync, ensuring efficient
 #### i.Create the new users
 <img width="678" height="430" alt="13" src="https://github.com/user-attachments/assets/76260429-a6da-4689-8302-24b0a202dd29" />
 
-#### ii.Now check the backup is done or not using <italic> cat </italic> command
+#### ii.Now check the backup is done or not using <i>"cat"</i> command
 <img width="703" height="446" alt="15" src="https://github.com/user-attachments/assets/c63968c5-b6ab-4856-bfb1-70acaec80e78" />
 
 #### iii.Access the the remote server using the ssh key and check whether the backup is done or not
