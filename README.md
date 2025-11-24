@@ -1,5 +1,16 @@
 # Automated-backup-using-rsync
 
+## Summary 
+
+Created a Bash script to automate system backups using rsync, ensuring efficient and incremental data synchronization. Scheduled the script with cron for regular, time-based execution to maintain consistent and reliable backups.
+
+## Key Benefits 
+
+1.Automated backups: Reduces manual effort and ensures backups happen consistently.
+2.Incremental syncing with rsync: Saves time and bandwidth by copying only changed files.
+3.Improved reliability: Scheduled cron jobs guarantee regular backups without human intervention.
+4.Data safety: Minimizes risk of data loss by maintaining up-to-date copies.
+
 ### Step 1
 #### i.Create a Keygen to access the remote server.Press enter for all prompts
 <img width="812" height="583" alt="1" src="https://github.com/user-attachments/assets/8d7f7fea-f8c9-4f12-99e3-a799c5a41ffa" />
