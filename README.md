@@ -12,7 +12,8 @@
 <img width="675" height="478" alt="3" src="https://github.com/user-attachments/assets/8c3c550e-fcc3-4821-82bc-e7861901fe30" />
 
 #### Write this script 
-<img width="676" height="487" alt="4" src="https://github.com/user-attachments/assets/5aa26148-ffc5-46a0-a77d-d4b0d830224d" />
+<img width="667" height="476" alt="10" src="https://github.com/user-attachments/assets/ecf1aee9-5179-4f31-ac28-c487b05ccfbb" />
+
 
 #### Make it executable
 <img width="679" height="489" alt="5" src="https://github.com/user-attachments/assets/89079e78-6e76-428e-b2bd-4f2f4ce90434" />
